@@ -1,4 +1,4 @@
-## Oi, eu sou a Jose Ulisses, estudante de desevolvimento de software
+## Oi, eu sou Jose Ulisses, estudante de desevolvimento de software
 <div align="center">
   <a href="https://github.com/Joseulisses065">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseulisses065&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
