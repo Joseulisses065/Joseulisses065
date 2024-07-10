@@ -1,7 +1,7 @@
- ## Olá! Eu sou Jose Ulisses, Analista e desenvolvedor de sistemas 🖖
+## Hello! I'm Jose Ulisses, Systems Analyst and Developer 🖖
 <hr>
 <div>
-    <p>Sou Analista e desenvolvedor de sistemas graduado no Centro Universitário Dr. Leão Sampaio (UNILEÃO) em Juazeiro do Norte -CE, tenho interesse em desenvolver aplicações para WEB, buscando sempre me desafiar a ir mais longe, aprendendo a cada dia, desejo tornar o desenvolvimento web minha profissão.</p>
+ <p>I am an Analyst and systems developer graduated from Centro Universitário Dr. Leão Sampaio (UNILEÃO) in Juazeiro do Norte -CE, I am interested in developing applications for the WEB, always seeking to challenge myself to go further, learning every day, I wish make web development my profession.</p>
 </div>
 <hr>
  <div> 
@@ -32,8 +32,7 @@
 <div style="display: inline_block">
 <hr>
 
-## Linguagens e Ferramentas:
-    
+## Languages ​​and Tools:    
   
   <img align="center" alt="Ulisses-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Ulisses-mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -43,6 +42,9 @@
   <img align="center" alt="Ulisses-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ulisses-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
  <img align="center" alt="Ulisses-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Ulisses-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Ulisses-React" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+
 </div>
 
 ##
