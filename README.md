@@ -14,10 +14,6 @@
 <hr>
 
 
-<div align="left">
-  <a href="https://github.com/Joseulisses065">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseulisses065&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Joseulisses065"/></a>
-</div>
 <br>
 <div align="left">
   <a href="https://github.com/Joseulisses065">
